@@ -1,0 +1,100 @@
+
+body{
+    padding-left: 8%;
+    padding-right: 8%;
+    background-image: linear-gradient(to top,rgb(red, green, blue),rgb( blue),);
+}
+
+.img-toggle{            
+    width: 50px;
+    height: 50px;
+}
+
+#nav-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.title-nav{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.masuk{
+    display: flex;
+}
+.masuk h3{
+    font-weight: bold;
+}
+.btn-btn{
+    width: 125px;
+    height: 50px;
+    margin-left: 10px;
+    background-color: green;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: none;
+    border-radius: 20px;
+}
+section.banner{
+    display: flex;
+    justify-content: space-between;
+    padding-top : 15%;
+}
+
+
+section.banner-baru{
+    display: flex;
+    justify-content: space-between;
+    padding-top : 15%;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+
+.gb-banner{
+}
+.img-banner{
+    top: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    border-radius: 30%;
+}
+.text-header{
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.parap{
+    color:gray;
+    font-size: 17px;
+}
+
+
+.btn-catalog{
+    width: 170px;
+    height: 50px;
+    margin-left: 10px;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: none;
+    border-radius: 20px;
+}
+.btn-shop{
+    width: 170px;
+    height: 50px;
+    margin-left: 10px;
+    background-color: goldenrod;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: none;
+    border-radius: 20px;
+}
+.catalog-show{
+    text-align: center;
+}
+.tengah{
+    text-align: center;
+}
